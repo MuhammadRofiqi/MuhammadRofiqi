@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rofiqi</h1>
-<h3 align="center">I like to learn new things about backend developers</h3>
+<h1 align="center">⫷ Hi 👋, I'm Muhammad Rofiqi ⫸</h1>
+<h3 align="center">⋘ I like to learn new things about backend developers ⋙</h3>
 <div align="center">
-  <br>
+  <h1 align="center">🐱‍💻</h1>
   <br>
   <a href="https://github.com/MuhammadRofiqi/"><img src="https://github.com/images/mona-whisper.gif" width="60" height="60"></a>
   <p>🔰</p>
